@@ -218,7 +218,7 @@ body {
 }
 
 .team-img {
-    margin-bottom: 30px;
+    display: block;
 }
 
 .img-services {
@@ -235,7 +235,7 @@ body {
 }
 
 .team-info {
-    margin-bottom: 30px;
+    padding: 30px 20px;
 }
 /* End Team */
 .team-section {
